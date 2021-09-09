@@ -1,11 +1,6 @@
 Projeto de colaboração...
 Atualização realizada pelo gerente de projetos...
-<<<<<<< HEAD
 Atualizado por Johnny
-Atualizado por JMoreira
-=======
-Atualização realizada por Johnny
 Atualização realizada por Welinton
->>>>>>> 385b79a66fd6d158b518fbbcb69f1700f280705b
+Atualização Mauro Lucas Esteves
 
-Atualização por JMoreira
